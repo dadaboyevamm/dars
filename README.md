@@ -7,5 +7,5 @@ Farg'ona, 8-sinf. Dasturlashni o'rganyabman.
 - HTML va CSS
 
 ##Loyihalarim
-- \[men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
+- [men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
 
