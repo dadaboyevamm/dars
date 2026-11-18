@@ -1,11 +1,11 @@
-\# Salom! Men Mohinur
+# Salom! Men Mohinur
 
 Farg'ona, 8-sinf. Dasturlashni o'rganyabman.
 
 ## Hozir o'rganyabman
-- Git \& GitHub
+- Git & GitHub
 - HTML va CSS
 
-##Loyihalarim
+## Loyihalarim
 - [men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
 
